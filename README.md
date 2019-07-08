@@ -1,2 +1,2 @@
-# QueteJava6
+# Java6
 java6
